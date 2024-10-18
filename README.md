@@ -1,6 +1,6 @@
-# SCT_DS_01
-Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 # World Population Analysis (2022)
+Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+
 
 This project presents a detailed analysis of the world population, specifically focusing on the male and female populations of various countries in 2022. The analysis leverages Python libraries such as `pandas`, `seaborn`, and `matplotlib` to generate insightful visualizations and comparisons. The key feature of this project is the comparison between the top 10 and bottom 10 countries in terms of total population.
 
